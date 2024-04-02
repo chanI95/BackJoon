@@ -1,7 +1,7 @@
 #1번
 A,B = intput().split()
-x = int(A)
-y = int(B)
+A = int(A)
+B = int(B)
 print(x+y)
 
 #2번
